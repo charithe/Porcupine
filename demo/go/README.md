@@ -1,7 +1,7 @@
 Go Demo
 =======
 
-Uses Go bindings from [github.com/charithe/procupine-go](https://github.com/charithe/porcupine-go/)
+Uses Go bindings from [github.com/charithe/porcupine-go](https://github.com/charithe/porcupine-go/)
 
 This demo application was tested on 64-bit linux using Go 1.11 with module support.
 
